@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DockManager_MenuCustomization", "DockManager_MenuCustomization\DockManager_MenuCustomization.vbproj", "{D0B1DE2E-E449-4405-87BA-C960BEB23776}"
+# Visual Studio 16
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DockManager_MenuCustomization", "DockManager_MenuCustomization\DockManager_MenuCustomization.Net5.vbproj", "{D0B1DE2E-E449-4405-87BA-C960BEB23776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
