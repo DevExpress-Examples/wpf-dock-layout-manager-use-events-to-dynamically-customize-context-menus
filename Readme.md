@@ -20,3 +20,7 @@ This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.co
 * [Window1.xaml](./CS/DockManager_MenuCustomization/Window1.xaml) (VB: [Window1.xaml](./VB/DockManager_MenuCustomization/Window1.xaml))
 * [Window1.xaml.cs](./CS/DockManager_MenuCustomization/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DockManager_MenuCustomization/Window1.xaml))
 <!-- default file list end -->
+
+## Documentation
+
+* [Dock Layout Manager: Visual Elements](http://docs.devexpress.devx/WPF/6827/controls-and-libraries/layout-management/dock-windows/visual-elements)
