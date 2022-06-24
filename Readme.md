@@ -9,7 +9,7 @@ This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.co
 
 - a [BarButtonItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.BarButtonItem) object is a menu action.
 
-- an [InsertBarItemLinkAction](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.InsertBarItemLinkAction) object is an action that inserts a bar item link to the menu (in the example it inserts a separator).
+- [InsertBarItemLinkAction](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.InsertBarItemLinkAction) object — an action that inserts a bar item link into the menu (in the example, it inserts a separator).
 
 <img src="https://user-images.githubusercontent.com/12169834/175352251-7fd3e5b0-28d7-4d84-8773-6360532583d9.png" width=505px/>
 
