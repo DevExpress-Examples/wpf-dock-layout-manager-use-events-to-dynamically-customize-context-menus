@@ -7,7 +7,8 @@
 
 This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager.ShowingMenu) event to customize a [LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel)'s context menu. The menu uses customization actions to customize bars. This example creates two actions:
 
-- a [BarButtonItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.BarButtonItem) object is an action that adds the [BarButtonItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.BarButtonItem) object to the menu.
+- a [BarButtonItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.BarButtonItem) object is a menu action.
+
 - an [InsertBarItemLinkAction](https://docs.devexpress.com/WPF/DevExpress.Xpf.Bars.InsertBarItemLinkAction) object is an action that inserts a bar item link to the menu (in the example it inserts a separator).
 
 <img src="https://user-images.githubusercontent.com/12169834/175352251-7fd3e5b0-28d7-4d84-8773-6360532583d9.png" width=505px/>
