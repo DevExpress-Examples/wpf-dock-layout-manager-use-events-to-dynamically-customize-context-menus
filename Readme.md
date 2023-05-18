@@ -15,13 +15,10 @@ This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.co
 
 <img src="https://user-images.githubusercontent.com/12169834/175352251-7fd3e5b0-28d7-4d84-8773-6360532583d9.png" width=505px/>
 
-<!-- default file list -->
-
 ## Files to Look At
 
 * [Window1.xaml](./CS/DockManager_MenuCustomization/Window1.xaml) (VB: [Window1.xaml](./VB/DockManager_MenuCustomization/Window1.xaml))
 * [Window1.xaml.cs](./CS/DockManager_MenuCustomization/Window1.xaml.cs) (VB: [Window1.xaml](./VB/DockManager_MenuCustomization/Window1.xaml))
-<!-- default file list end -->
 
 ## Documentation
 
