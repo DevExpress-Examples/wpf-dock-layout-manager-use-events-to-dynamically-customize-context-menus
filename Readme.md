@@ -24,4 +24,4 @@ This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.co
 
 ## Documentation
 
-* [Dock Layout Manager: Visual Elements](http://docs.devexpress.devx/WPF/6827/controls-and-libraries/layout-management/dock-windows/visual-elements)
+* [Dock Layout Manager: Visual Elements](http://docs.devexpress.com/WPF/6827/controls-and-libraries/layout-management/dock-windows/visual-elements)
