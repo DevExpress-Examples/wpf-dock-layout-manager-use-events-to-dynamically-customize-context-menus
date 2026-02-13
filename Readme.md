@@ -28,7 +28,7 @@ This example uses the [DockLayoutManager.ShowingMenu](https://docs.devexpress.co
 
 * [Dock Layout Manager: Visual Elements](http://docs.devexpress.com/WPF/6827/controls-and-libraries/layout-management/dock-windows/visual-elements)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dock-layout-manager-use-events-to-dynamically-customize-context-menus&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dock-layout-manager-use-events-to-dynamically-customize-context-menus&~~~was_helpful=no)
 
